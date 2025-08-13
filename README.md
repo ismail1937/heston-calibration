@@ -1,6 +1,6 @@
 # Heston Calibration (EUR/USD)
 
-Calibration du modèle d’Heston (κ, θ, σ, ρ, v₀) sur options EUR/USD.  
+Calibration du modèle d’Heston (θ, σ, ρ, v₀) sur options EUR/USD.  
 Pricing semi-analytique/FFT, objectif RMSE, optimisation (Adam + L-BFGS-B).
 
 ## Installation
